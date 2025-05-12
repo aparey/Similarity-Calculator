@@ -1,7 +1,5 @@
 # Similarity-Calculator
 
-# Molecular Similarity Calculator
-
 A modern web application for calculating and visualizing molecular similarity using different algorithms. Built with React, TypeScript, and Tailwind CSS.
 
 ![Molecular Similarity Calculator](https://images.pexels.com/photos/954585/pexels-photo-954585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
